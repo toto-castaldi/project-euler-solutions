@@ -10,10 +10,10 @@ project-euler-solutions
 
 	> node problem-1.js
 
-### Math
+### Math references
 
-problem 009 -> https://it.wikipedia.org/wiki/Terna_pitagorica
-problem 010 -> https://it.wikipedia.org/wiki/Crivello_di_Eratostene
+ - problem 009 -> https://it.wikipedia.org/wiki/Terna_pitagorica
+ - problem 010 -> https://it.wikipedia.org/wiki/Crivello_di_Eratostene
 
 
 #### Greetings
